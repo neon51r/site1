@@ -3,7 +3,11 @@
 <html>
 <head>
 	<meta charset="utf-8" /> 
+<<<<<<< d8a62fe68f99b454f769492e139a089bbd0c2991
 	<title>Добавление контакта 74587</title>
+=======
+	<title>новая тема</title>
+>>>>>>> a76f3e97c8f0ae0148a7b0f1c5a07d9250cab926
 	<link rel="stylesheet" type="text/css" href="main.css" media="all">
 </head>
 <body>

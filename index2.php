@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="utf-8" /> 
-	<title>Добавление контакта 74587</title>
+	<title>Добавление контакта на 65</title>
 	<link rel="stylesheet" type="text/css" href="main.css" media="all">
 </head>
 <body>
